@@ -22,4 +22,7 @@ The *Brand Information Portal* is a web-based application designed to allow user
 2. *Clone the Repository*:
    Clone the repository to your local machine by running the following command:
    ```bash
-   git clone https://github.com/username/repository-name.git 
+   git clone https://github.com/username/repository-name.git
+3.
+   cd project-Brand Information Portal
+   npm install

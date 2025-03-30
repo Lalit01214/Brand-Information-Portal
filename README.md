@@ -48,7 +48,7 @@ This project is licensed under the MIT License.
 ## Contact
 For any inquiries or issues, feel free to reach out via the repository's [issue tracker](https://github.com/Lalit01214/Brand-Information-Portal/issues).
 
-Screenshots :- 
+## Screenshots 
 
 
 ![Screenshot 2025-03-30 154435](https://github.com/user-attachments/assets/1559576a-21d8-4502-9f84-b3cc9ad87324)

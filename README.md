@@ -23,6 +23,7 @@ The **Brand Information Portal** is a web-based application designed to allow us
 Run the following commands in your terminal:
 ```sh
 # Clone the repository
+
 git clone https://github.com/Lalit01214/Brand-Information-Portal.git
 
 # Navigate to the project directory
@@ -46,3 +47,10 @@ This project is licensed under the MIT License.
 
 ## Contact
 For any inquiries or issues, feel free to reach out via the repository's [issue tracker](https://github.com/Lalit01214/Brand-Information-Portal/issues).
+
+Screenshots :- 
+
+
+![Screenshot 2025-03-30 154435](https://github.com/user-attachments/assets/1559576a-21d8-4502-9f84-b3cc9ad87324)
+![Screenshot 2025-03-30 154648](https://github.com/user-attachments/assets/be60eb29-17f8-4e78-a796-46e7f1f3b1c8)
+![Screenshot 2025-03-30 154639](https://github.com/user-attachments/assets/6c34529a-f2da-483c-b01a-d518fc1f6ad5)
